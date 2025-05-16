@@ -21,7 +21,7 @@ The dataset has 202 rows and 5 columns. For each column:
 
 
 Sample entry:
-
+![image](https://github.com/user-attachments/assets/8fd12e7e-0a57-4f6c-bc8f-ddc6d2308896)
 # 2. Data Cleaning
 ## a. Missing Data
 ## b. Duplicates
