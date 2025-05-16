@@ -24,6 +24,10 @@ Sample entry:
 ![image](https://github.com/user-attachments/assets/8fd12e7e-0a57-4f6c-bc8f-ddc6d2308896)
 # 2. Data Cleaning
 ## a. Missing Data
+In the dataset, there are 2 missing values in the Average_Monthly_Income column (rows 162 and 178) and 2 missing entries in the Region column (rows 26 and 39) using Filter.  
+![Screenshot 2025-05-14 122732](https://github.com/user-attachments/assets/e7e05530-2ec9-4c34-8f8e-21aebf4c3356)  
+![Screenshot 2025-05-14 122850](https://github.com/user-attachments/assets/8d320937-73c5-4e97-b7f4-877a74b7688b)  
+The Median value is the most suitable method for filling in missing values in the Average_Monthly_Income column because it provides a more robust and accurate representation of typical income levels. Unlike the Average value, which can be significantly influenced by extreme values (outliers), the median selects the middle value in a sorted dataset, ensuring that unusually high or low income values do not distort the replacement value for missing entries.
 ## b. Duplicates
 # 3. Descriptive Statistics
 ## a. Insight 1: Global Cost of Living Comparison: Africa Highest, Asia Lowest Across Continents (2000 - 2023)
