@@ -13,7 +13,7 @@ While the exact source of the dataset is not mentioned in the Excel file, this t
 ## b. Data Structure
 The dataset has 202 rows and 5 columns. For each column:  
 - Country (Categorical) – The name of the country where the data was collected (Australia, Brazil, Canada, China, France, Germany, India, Japan, Mexico, Russia, South Africa,  and the United States). Among them, Mexico was the most reported country.  
-
+![image](https://github.com/user-attachments/assets/8632a521-988a-4086-96dd-0b4dbd0aef2d)
 - Year (Numerical) – The specific year in which the data was recorded (2000 - 2023).
 - Average Monthly Income (Numerical) – The average monthly earnings of individuals in that country for the given year.
 - Cost of Living (Numerical) – The estimated monthly cost required to sustain a standard lifestyle in that country.
