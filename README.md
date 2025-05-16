@@ -17,7 +17,7 @@ The dataset has 202 rows and 5 columns. For each column:
 - Year (Numerical) – The specific year in which the data was recorded (2000 - 2023).
 - Average Monthly Income (Numerical) – The average monthly earnings of individuals in that country for the given year.
 - Cost of Living (Numerical) – The estimated monthly cost required to sustain a standard lifestyle in that country.
-- Region (Categorical) – The broader geographical classification (e.g., Europe, Asia, North America, etc.).
+- Region (Categorical) – The broader geographical classification (e.g., Europe, Asia, North America, etc.).  
 Sample entry:
 
 # 2. Data Cleaning
