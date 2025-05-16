@@ -45,7 +45,7 @@ This result table shows that the Median of average monthly income equals 4270.4,
 In the Region column, handling missing data is easier because the countries are predefined. Therefore, based on the nations, the region will be determined. In both rows 26 and 39, the country is Mexico, so the region name used to fill the blanks is North America.
 ![Screenshot 2025-05-14 124206](https://github.com/user-attachments/assets/a347ec15-ebc1-40fe-a7aa-2440596f812a)
 ## b. Duplicates
-Duplicates (rows 30 & 37, rows 42 & 45) were removed because they repeated the same data entries. Keeping them could distort analysis results or inflate counts. After removal, the dataset had 200 unique, accurate rows—ensuring reliable insights.
+Duplicates (rows 30 & 37, rows 42 & 45) were removed because they repeated the same data entries. Keeping them could distort analysis results or inflate counts. After removal, the dataset had 200 rows, accurate rows—ensuring reliable insights.
 ![Screenshot 2025-05-14 131525](https://github.com/user-attachments/assets/85a13926-36f3-4ef8-8f7f-6a0a7c5e1ab0)
 # 3. Descriptive Statistics
 ![Screenshot 2025-05-14 155415](https://github.com/user-attachments/assets/b2d63428-f0f9-439a-a1eb-bb4a1dff1b76)
