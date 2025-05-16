@@ -25,10 +25,28 @@ Sample entry:
 # 2. Data Cleaning
 ## a. Missing Data
 In the dataset, there are 2 missing values in the Average_Monthly_Income column (rows 162 and 178) and 2 missing entries in the Region column (rows 26 and 39) using Filter.  
-![Screenshot 2025-05-14 122732](https://github.com/user-attachments/assets/e7e05530-2ec9-4c34-8f8e-21aebf4c3356)  
+![Screenshot 2025-05-14 122732](https://github.com/user-attachments/assets/e7e05530-2ec9-4c34-8f8e-21aebf4c3356)
+
+
 ![Screenshot 2025-05-14 122850](https://github.com/user-attachments/assets/8d320937-73c5-4e97-b7f4-877a74b7688b)  
+
+
 The Median value is the most suitable method for filling in missing values in the Average_Monthly_Income column because it provides a more robust and accurate representation of typical income levels. Unlike the Average value, which can be significantly influenced by extreme values (outliers), the median selects the middle value in a sorted dataset, ensuring that unusually high or low income values do not distort the replacement value for missing entries.
+
+
+The Descriptive Statistics tool in Excel’s Data Analysis Toolpak does indeed provide the median.
+![Screenshot 2025-05-14 155405](https://github.com/user-attachments/assets/2f855b25-2608-4887-a5a7-11b4f25118df)
+
+
+This result table shows that the Median of average monthly income equals 4270.4, so the value is filled in the two missing values in the Average_Monthly_Income column.
+![Screenshot 2025-05-14 124147](https://github.com/user-attachments/assets/048c21d8-051e-4a7b-8fff-aad9edf55899)
+
+
+In the Region column, handling missing data is easier because the countries are predefined. Therefore, based on the nations, the region will be determined. In both rows 26 and 39, the country is Mexico, so the region name used to fill the blanks is North America.
+![Screenshot 2025-05-14 124206](https://github.com/user-attachments/assets/a347ec15-ebc1-40fe-a7aa-2440596f812a)
 ## b. Duplicates
+Duplicates (rows 30 & 37, rows 42 & 45) were removed because they repeated the same data entries. Keeping them could distort analysis results or inflate counts. After removal, the dataset had 200 unique, accurate rows—ensuring reliable insights.
+![Screenshot 2025-05-14 131525](https://github.com/user-attachments/assets/85a13926-36f3-4ef8-8f7f-6a0a7c5e1ab0)
 # 3. Descriptive Statistics
 ## a. Insight 1: Global Cost of Living Comparison: Africa Highest, Asia Lowest Across Continents (2000 - 2023)
 ## b. Insight 2: Uncovering Income Gaps: A Closer Look at Monthly Earnings in Asia (2000 - 2023)
