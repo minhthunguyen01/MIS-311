@@ -48,6 +48,25 @@ In the Region column, handling missing data is easier because the countries are 
 Duplicates (rows 30 & 37, rows 42 & 45) were removed because they repeated the same data entries. Keeping them could distort analysis results or inflate counts. After removal, the dataset had 200 unique, accurate rows—ensuring reliable insights.
 ![Screenshot 2025-05-14 131525](https://github.com/user-attachments/assets/85a13926-36f3-4ef8-8f7f-6a0a7c5e1ab0)
 # 3. Descriptive Statistics
+![Screenshot 2025-05-14 155415](https://github.com/user-attachments/assets/b2d63428-f0f9-439a-a1eb-bb4a1dff1b76)
+
+
+Living costs also fluctuate across countries and territories, influenced by market prices and economic policies. The data shows expenses range from $464.49 to $6,981.02, with an average of $3,705.13 and a median of $3,688.09. While the distribution is relatively balanced, the wide range ($6,516.53) highlights significant differences in living standards and spending habits among regions.
+
+
+![Screenshot 2025-05-14 155405](https://github.com/user-attachments/assets/538c9af8-f1dc-44de-ab67-efb458fa1588)
+
+
+The average monthly income across countries and territories varies significantly, reflecting differences in economic conditions. According to the data, incomes range from $534.74 to $7,976.56, with an average of $4,274.95. Although the median ($4,270.4) is close to the average, the high standard deviation ($2,139.82) indicates considerable disparities between regions, affecting living standards and development opportunities.
 ## a. Insight 1: Global Cost of Living Comparison: Africa Highest, Asia Lowest Across Continents (2000 - 2023)
+![image](https://github.com/user-attachments/assets/02bcbc70-3923-40c4-8012-cfc29d42e360)
+
+
+The average cost of living varies significantly across continents. Africa has the highest cost at $3963.17, while Asia has the lowest at $3645.29. North America ($3750.07) and Oceania ($3913.40) have relatively high costs, reflecting living standards and the prices of goods and services. Europe and South America have lower costs, at $3554.35 and $3585.02, respectively. These differences highlight the economic and social factors that influence living expenses worldwide.
 ## b. Insight 2: Uncovering Income Gaps: A Closer Look at Monthly Earnings in Asia (2000 - 2023)
+![image](https://github.com/user-attachments/assets/6e1f019e-1d3e-494e-97b0-f877974904c9)
+
+
+The chart presents the average monthly income for China, India, and Japan within the Asian region. India ranks highest with an average monthly income of $4,294.91, followed by Japan at $4,195.25, while China has the lowest at $4,041.26. Although the income gap between the countries is relatively small, India exceeds China by approximately $253.65 and Japan by $99.66, suggesting slight regional disparities in earnings that may reflect differences in economic structure, cost of living, or labor market conditions.
+
 
